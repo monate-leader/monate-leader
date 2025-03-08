@@ -20,7 +20,7 @@ I lead Software development team called as **MONATE** specializing in 𝗙𝘂�
 | **Follow** | **Chatbot** | **Image Generation** | **Video Generation** |
 |---|---|---|---|
 |![followers](https://github.com/user-attachments/assets/d22b2426-a92e-4f71-91d7-50069a2b07ae)|![chatbot](https://github.com/user-attachments/assets/f92d3ddd-809a-4786-a924-96c7a2402194)|![sdxl](https://github.com/user-attachments/assets/8215f04c-6d41-487d-8395-31c433c2a0ee)|![liveportrait](https://github.com/user-attachments/assets/3f16ae81-f0aa-4c89-9db8-9244be9b974c)|
-|  |![open-ai](https://github.com/user-attachments/assets/8e1f5924-f0e0-48ae-af3d-e59a3344448a)|||
-|  |||
+|  |![open-ai](https://github.com/MONATE-TEAM/MONATE/blob/backend/demos/chatbot/openai.gif)|![sdxl](https://github.com/MONATE-TEAM/MONATE/blob/backend/demos/gen%20ai/sdxl.gif)|![mimicmotion](https://github.com/MONATE-TEAM/MONATE/blob/backend/demos/gen%20ai/mimicmotion.gif)|
+|  |![qwen](https://github.com/MONATE-TEAM/MONATE/blob/backend/demos/chatbot/qwen.gif)|![vton](https://github.com/MONATE-TEAM/MONATE/blob/backend/demos/gen%20ai/vton.gif)|![liveportrait](https://github.com/MONATE-TEAM/MONATE/blob/backend/demos/gen%20ai/liveportrait.gif)|
 
 ---
